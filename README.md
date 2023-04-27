@@ -1,2 +1,2 @@
-# IST707_Final_Project
+# IST652_Final_Project
 Heart disease prediction
